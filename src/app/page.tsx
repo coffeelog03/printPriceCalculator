@@ -11,6 +11,7 @@ export default function Home() {
       <footer className="py-4 text-center text-sm text-muted-foreground">
         © {new Date().getFullYear()} PrintPro Calculator. Đã đăng ký bản quyền.
       </footer>
+      <script src="https://messenger.svc.chative.io/static/v1.0/channels/s8654ea6a-ace4-4c88-907f-069c5a9a813b/messenger.js?mode=livechat" defer="defer"></script>
     </div>
   );
 }
